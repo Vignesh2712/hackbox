@@ -40,18 +40,3 @@ pip install -r requirements.txt
 python hackbox.py
 ```
 
-## YouTube Tutorial
-
-[![YouTube](/docs/hackbox.jpg)](https://www.youtube.com/watch?v=VasXpDko0VE)
-
-# Credits
-
-Shawar Khan <https://twitter.com/ShawarkOFFICIAL>
-
-Jobart Abama <https://twitter.com/jobertabma>
-
-VulnersCom <https://github.com/vulnersCom/getsploit>
-
-Erwin De Laat <https://twitter.com/erwindelaat>
-
-thehappydinoa <https://twitter.com/thehappydinoa>
