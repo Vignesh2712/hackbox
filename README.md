@@ -24,7 +24,7 @@ HackBox is an all-in-one tool that is designed to assist security professionals 
 ## Usage
 
 ```bash
-git clone https://github.com/samhaxr/hackbox && cd hackbox
+https://github.com/Vignesh2712/hackbox.git && cd hackbox
 
 virtualenv venv && source venv/bin/activate
 
